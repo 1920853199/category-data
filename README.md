@@ -4,8 +4,7 @@
 
 ```
 - Book              // 书籍分类爬取程序
-- Product           // 商品分类爬取程序
-- Database          // 已爬取数据库文件
----- book.sql       // 书籍分类数据
----- book.sql       // 商品分类数据
+---- book
+--------- book.json       // 书籍分类数据 json
+--------- book.sql        // 书籍分类数据 sql
 ```
